@@ -1,42 +1,46 @@
 [
-{
-  "Tempo": [
-    {
-      "Tempo": "2/4"
+  {
+      "Tempo": "2/4",
      
-      }
-    },
-      {
-      "Tempo": "3/4"
-     
-      }
-    },
-      {
-      "Tempo": "4/4"
     
-      }
     },
+        {
+      "Tempo": "3/4",
   
-  
+    },
     {
-      "Tempo": "6/8"
-   
+      "Tempo": "4/4",
+     
+    
+    },
+    {
+      "Tempo": "6/8",
+     
+    
+    },
+    {
+      "Tempo": "9/8",
+     
+    
     },
     {
       "Tempo": "MSR"
-       
-    },
-    {
-      "Tempo": "Jig"
-      
-      }
-    },
-    {
-      "Tempo": "Strathspey"
      
-      }
-    }
     
-  ]
-}
+    },
+    {
+      "Tempo": "Strathspey",
+     
+    
+    },
+    {
+      "Tempo": "Reel",
+     
+    
+    },
+    {
+      "Tempo": "Jig",
+     
+    
+    }
 ]
