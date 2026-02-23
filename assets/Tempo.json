@@ -1,35 +1,36 @@
 [
   {
-      "Tempo": "2/4"
+      "Timing": "2/4"
      },
         {
-      "Tempo": "3/4"
+      "Timing": "3/4"
     },
     {
-      "Tempo": "4/4"
+      "Timing": "4/4"
     },
     {
-      "Tempo": "6/8"
+      "Timing": "6/8"
     },
     {
-      "Tempo": "9/8"
+      "Timing": "9/8"
     },
     {
-      "Tempo": "MSR"
+      "Timing": "MSR"
     },
     {
-      "Tempo": "Strathspey"
+      "Timing": "Strathspey"
     },
     {
-      "Tempo": "Reel"
+      "Timing": "Reel"
     },
     {
-      "Tempo": "Jig"
+      "Timing": "Jig"
     },
     {
-      "Tempo": "Misc"
+      "Timing": "Misc"
     }
 ]
+
 
 
 
