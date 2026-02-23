@@ -26,9 +26,25 @@
     {
       "Tempo": "Jig"
     },
+    {
+      "Tempo": "Misc"
+    },
   {
+      "Tempo": "MSR"
+    },
+    {
+      "Tempo": "Strathspey"
+    },
+    {
+      "Tempo": "Reel"
+    },
+    {
+      "Tempo": "Jig"
+    },
+    {
       "Tempo": "Misc"
     }
 ]
+
 
 
