@@ -9,7 +9,7 @@
       "Tempo": "4/4"
     },
     {
-      "Tempo": "6/8online"
+      "Tempo": "6/8"
     },
     {
       "Tempo": "9/8"
@@ -25,6 +25,10 @@
     },
     {
       "Tempo": "Jig"
+    },
+  {
+      "Tempo": "Misc"
     }
 ]
+
 
