@@ -39,7 +39,7 @@
   
   
     {
-      "Tempo": "6/8x",
+      "Tempo": "6/8",
       "Desc": " ",
       "fpath": "primary",
 	"Image": "",
@@ -102,5 +102,6 @@
   ]
 
 }
+
 
 
