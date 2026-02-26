@@ -1,45 +1,56 @@
 [
   {
       "Timing": "2/4",
-       "ID":"1"
+       "ID":1,
+        "Sets":3
      },
         {
       "Timing": "3/4",
-          "ID":"2"
+          "ID":2,
+          "Sets":2
     },
     {
       "Timing": "4/4",
-      "ID":"3"
+      "ID":3,
+      "Sets":3
     },
     {
       "Timing": "6/8",
-      "ID":"4"
+      "ID":4,
+      "Sets":2
     },
     {
       "Timing": "9/8",
-      "ID":"5"
+      "ID":5,
+      "Sets":3
     },
     {
       "Timing": "MSR",
-      "ID":"6"
+      "ID":6,
+      "Sets":1
     },
     {
       "Timing": "Strathspey",
-      "ID":"7"
+      "ID":7,
+      "Sets":1
     },
     {
       "Timing": "Reel",
-      "ID":"8"
+      "ID":8,
+      "Sets":3
     },
     {
       "Timing": "Jig",
-      "ID":"9"
+      "ID":9,
+      "Sets":3
     },
     {
       "Timing": "Misc",
-      "ID":"10"
+      "ID":10,
+      "Sets":0
     }
 ]
+
 
 
 
