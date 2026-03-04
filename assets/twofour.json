@@ -8,8 +8,8 @@
        "Set":"1", 
        "t1": "The Barren Rocks of Aden",
        "t2": "Highland Laddie",
-     "t3": "Mharis Wedding",
-    "t4":"" 
+       "t3": "Mhairis Wedding",
+       "t4":"" 
   },
     {
       "Tempo": "2/4", 
@@ -17,11 +17,10 @@
       "Image": "",
        "Set":"1", 
        "t1": "Father John McMillan of Barra",
-       "t2": "",
-     "t3": "",
-    "t4":"" 
+       "t2": "PM Willaim Ross farewell to 2nd Btn Scots Guards",
+       "t3": "",
+       "t4": "" 
   }
-
 ]
 }
 ]
