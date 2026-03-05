@@ -6,26 +6,13 @@
        "fpath": "primary",
       "Image": "",
        "Set":"1", 
-       "t1": "The Barren Rocks of Aden"
-  },
-    {
-      "Tempo": "2/4",
-       "fpath": "primary",
-      "Image": "",
-       "Set":"1", 
-      "t1": "Highland Laddie"
-       
-  },
-    {
-      "Tempo": "2/4",
-       "fpath": "primary",
-      "Image": "",
-       "Set":"1", 
-       "t1": "Mhairis Wedding"
- }
-    
-    
+       "t1": "The Barren Rocks of Aden",
+       "t2": "Highland Laddie",
+       "t3": "Mhairis Wedding"
+  }
+ 
 ]
 }
 ]
+
 
