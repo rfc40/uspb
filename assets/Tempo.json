@@ -2,52 +2,62 @@
   {
       "Timing": "2/4",
        "ID":1,
-        "Set":"24"
+        "Set":"24",
+        "NumberofSets":2
      },
         {
       "Timing": "3/4",
           "ID":2,
-          "Set":"34"
+          "Set":"34",
+          "NumberofSets":2
     },
     {
       "Timing": "4/4",
       "ID":3,
-      "Set":"44"
+      "Set":"44",
+      "NumberofSets":2
     },
     {
       "Timing": "6/8",
       "ID":4,
-      "Set":"68"
+      "Set":"68",
+      "NumberofSets":3
     },
     {
       "Timing": "9/8",
       "ID":5,
-      "Sets":"98"
+      "Sets":"98",
+      "NumberofSets":1
     },
     {
       "Timing": "MSR",
       "ID":6,
-      "Set":"MSR"
+      "Set":"MSR",
+      "NumberofSets":2
     },
     {
       "Timing": "Strathspey",
       "ID":7,
-      "Set":"STRATH"
+      "Set":"STRATH",
+      "NumberofSets":1
     },
     {
       "Timing": "Reel",
       "ID":8,
-      "Set":"REEL"
+      "Set":"REEL",
+      "NumberofSets":2
     },
     {
       "Timing": "Jig",
       "ID":9,
-      "Set":"JIG"
+      "Set":"JIG",
+      "NumberofSets":4
     },
     {
       "Timing": "Misc",
       "ID":10,
-      "Set":"MISC"
+      "Set":"MISC",
+      "NumberofSets":0
     }
 ]
 
